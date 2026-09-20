@@ -134,7 +134,7 @@ dataset = [
     {
         "filename": "dip3.jpeg",
         "actual": 15,
-        "min_area": 1000,
+        "min_area": 5000,
         "invert": True
     },
     {
